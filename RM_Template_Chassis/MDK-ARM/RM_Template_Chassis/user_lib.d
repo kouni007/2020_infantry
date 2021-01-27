@@ -1,0 +1,10 @@
+rm_template_chassis\user_lib.o: Algorithm\user_lib.c
+rm_template_chassis\user_lib.o: Algorithm\user_lib.h
+rm_template_chassis\user_lib.o: ..\DSP_LIB\include\arm_math.h
+rm_template_chassis\user_lib.o: ..\DSP_LIB\include\core_cm4.h
+rm_template_chassis\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+rm_template_chassis\user_lib.o: ..\DSP_LIB\include\core_cmInstr.h
+rm_template_chassis\user_lib.o: ..\DSP_LIB\include\core_cmFunc.h
+rm_template_chassis\user_lib.o: ..\DSP_LIB\include\core_cmSimd.h
+rm_template_chassis\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+rm_template_chassis\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h

@@ -1,0 +1,11 @@
+template_c_board\user_lib.o: Algorithm\user_lib.c
+template_c_board\user_lib.o: Algorithm\user_lib.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+template_c_board\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+template_c_board\user_lib.o: E:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+template_c_board\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+template_c_board\user_lib.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
